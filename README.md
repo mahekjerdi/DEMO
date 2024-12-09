@@ -1,4 +1,6 @@
 Hello World
-
-
-Hello AGMRCET
+print("Hello Everyone")
+print("Mahek Jerdi")
+Hello AGMR
+How are you
+I am fine
